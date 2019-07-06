@@ -1,0 +1,322 @@
+
+  Contract: WhiteList
+Estimated Gas cost for addUserToWhitelist() func User 1:  56645
+    ✓ should add user to whitelist by admin account : Alice (66ms)
+Estimated Gas Cost for addDevice() func User 1 : Device  1 : 62491
+Estimated Gas Cost for addDevice() func User 1 : Device  2 : 63470
+Estimated Gas Cost for addDevice() func User 1 : Device  3 : 64449
+Estimated Gas Cost for addDevice() func User 1 : Device  4 : 65428
+Estimated Gas Cost for addDevice() func User 1 : Device  5 : 66407
+Estimated Gas Cost for addDevice() func User 1 : Device  6 : 67386
+Estimated Gas Cost for addDevice() func User 1 : Device  7 : 68365
+Estimated Gas Cost for addDevice() func User 1 : Device  8 : 69344
+Estimated Gas Cost for addDevice() func User 1 : Device  9 : 70323
+Estimated Gas Cost for addDevice() func User 1 : Device  10 : 71302
+Estimated Gas Cost for addDevice() func User 1 : Device  11 : 72281
+    ✓ should add 10 devices to whitelist by whitelisted user account : Alice - Devices 10 (838ms)
+Estimated Gas cost for addUserToWhitelist() func User 2:  56645
+    ✓ should add user to whitelist by admin account : Bob (69ms)
+Estimated Gas Cost for addDevice() func User 2: Device  1 : 62491
+Estimated Gas Cost for addDevice() func User 2: Device  2 : 63470
+Estimated Gas Cost for addDevice() func User 2: Device  3 : 64449
+Estimated Gas Cost for addDevice() func User 2: Device  4 : 65428
+Estimated Gas Cost for addDevice() func User 2: Device  5 : 66407
+Estimated Gas Cost for addDevice() func User 2: Device  6 : 67386
+Estimated Gas Cost for addDevice() func User 2: Device  7 : 68365
+Estimated Gas Cost for addDevice() func User 2: Device  8 : 69344
+Estimated Gas Cost for addDevice() func User 2: Device  9 : 70323
+Estimated Gas Cost for addDevice() func User 2: Device  10 : 71302
+    ✓ should add 10 devices to whitelist by whitelisted user account : Bob - Devices 10 (594ms)
+Remove devices from 1st to Last
+  
+
+Estimated Gas Cost for removeDevice() func User 2: Device  1 : 59850
+Estimated Gas Cost for removeDevice() func User 2: Device  2 : 59850
+Estimated Gas Cost for removeDevice() func User 2: Device  3 : 59850
+Estimated Gas Cost for removeDevice() func User 2: Device  4 : 59850
+Estimated Gas Cost for removeDevice() func User 2: Device  5 : 59850
+Estimated Gas Cost for removeDevice() func User 2: Device  6 : 59850
+Estimated Gas Cost for removeDevice() func User 2: Device  7 : 59850
+Estimated Gas Cost for removeDevice() func User 2: Device  8 : 59850
+Estimated Gas Cost for removeDevice() func User 2: Device  9 : 59850
+Estimated Gas Cost for removeDevice() func User 2: Device  10 : 59850
+    ✓ should remove 10 devices from whitelist by whitelisted user account : Bob - Devices 10 (660ms)
+Remove devices from last to 1st
+  
+
+Estimated Gas Cost for removeDevice() func User 2: Device  10 : 71544
+Estimated Gas Cost for removeDevice() func User 2: Device  9 : 70375
+Estimated Gas Cost for removeDevice() func User 2: Device  8 : 69205
+Estimated Gas Cost for removeDevice() func User 2: Device  7 : 68036
+Estimated Gas Cost for removeDevice() func User 2: Device  6 : 66866
+Estimated Gas Cost for removeDevice() func User 2: Device  5 : 65697
+Estimated Gas Cost for removeDevice() func User 2: Device  4 : 64527
+Estimated Gas Cost for removeDevice() func User 2: Device  3 : 63358
+Estimated Gas Cost for removeDevice() func User 2: Device  2 : 62189
+Estimated Gas Cost for removeDevice() func User 2: Device  1 : 61019
+Estimated Gas Cost for removeDevice() func User 2: Device  0 : 59850
+    ✓ should remove 10 devices from whitelist by whitelisted user account : Alice - Devices 10 (819ms)
+Add some more devices after removing devices
+Estimated Gas Cost for addDevice() func User 1 : Device  1 : 62491
+Estimated Gas Cost for addDevice() func User 1 : Device  2 : 63470
+Estimated Gas Cost for addDevice() func User 1 : Device  3 : 64449
+Estimated Gas Cost for addDevice() func User 1 : Device  4 : 65428
+Estimated Gas Cost for addDevice() func User 1 : Device  5 : 66407
+Estimated Gas Cost for addDevice() func User 1 : Device  6 : 67322
+Estimated Gas Cost for addDevice() func User 1 : Device  7 : 68365
+Estimated Gas Cost for addDevice() func User 1 : Device  8 : 69344
+Estimated Gas Cost for addDevice() func User 1 : Device  9 : 70323
+Estimated Gas Cost for addDevice() func User 1 : Device  10 : 71302
+    ✓ should add some more devices to whitelist by whitelisted user account : Alice - Devices 10 (866ms)
+Estimated Gas cost for addUserToWhitelist() func User 3:  56645
+    ✓ should add user to whitelist by admin account : Carol (57ms)
+Estimated Gas Cost for addDevice() func User 3: Device  1 : 62491
+Estimated Gas Cost for addDevice() func User 3: Device  2 : 63470
+Estimated Gas Cost for addDevice() func User 3: Device  3 : 64449
+Estimated Gas Cost for addDevice() func User 3: Device  4 : 65428
+Estimated Gas Cost for addDevice() func User 3: Device  5 : 66407
+Estimated Gas Cost for addDevice() func User 3: Device  6 : 67386
+Estimated Gas Cost for addDevice() func User 3: Device  7 : 68365
+Estimated Gas Cost for addDevice() func User 3: Device  8 : 69344
+Estimated Gas Cost for addDevice() func User 3: Device  9 : 70323
+Estimated Gas Cost for addDevice() func User 3: Device  10 : 71302
+    ✓ should add 10 devices to whitelist by whitelisted user account : Carol - Devices 10 (568ms)
+Estimated Gas Cost for removeDevice() func User 3: Device  7 : 66866
+    ✓ should remove 7th device from whitelist by whitelisted user account : Carol - Device 7 (72ms)
+Estimated Gas cost for addUserToWhitelist() func User 4:  56645
+    ✓ should add user to whitelist by admin account : Dave (57ms)
+Estimated Gas Cost for addDevice() func User 4: Device  1 : 62491
+Estimated Gas Cost for addDevice() func User 4: Device  2 : 63470
+Estimated Gas Cost for addDevice() func User 4: Device  3 : 64449
+Estimated Gas Cost for addDevice() func User 4: Device  4 : 65428
+Estimated Gas Cost for addDevice() func User 4: Device  5 : 66407
+Estimated Gas Cost for addDevice() func User 4: Device  6 : 67386
+Estimated Gas Cost for addDevice() func User 4: Device  7 : 68365
+Estimated Gas Cost for addDevice() func User 4: Device  8 : 69344
+Estimated Gas Cost for addDevice() func User 4: Device  9 : 70323
+Estimated Gas Cost for addDevice() func User 4: Device  10 : 71302
+Estimated Gas Cost for addDevice() func User 4: Device  11 : 72281
+Estimated Gas Cost for addDevice() func User 4: Device  12 : 73260
+Estimated Gas Cost for addDevice() func User 4: Device  13 : 74239
+Estimated Gas Cost for addDevice() func User 4: Device  14 : 75218
+Estimated Gas Cost for addDevice() func User 4: Device  15 : 76197
+Estimated Gas Cost for addDevice() func User 4: Device  16 : 77112
+Estimated Gas Cost for addDevice() func User 4: Device  17 : 78155
+Estimated Gas Cost for addDevice() func User 4: Device  18 : 79134
+Estimated Gas Cost for addDevice() func User 4: Device  19 : 80113
+Estimated Gas Cost for addDevice() func User 4: Device  20 : 81092
+Estimated Gas Cost for addDevice() func User 4: Device  21 : 82071
+Estimated Gas Cost for addDevice() func User 4: Device  22 : 83050
+Estimated Gas Cost for addDevice() func User 4: Device  23 : 84029
+Estimated Gas Cost for addDevice() func User 4: Device  24 : 85008
+Estimated Gas Cost for addDevice() func User 4: Device  25 : 85987
+Estimated Gas Cost for addDevice() func User 4: Device  26 : 86966
+Estimated Gas Cost for addDevice() func User 4: Device  27 : 87945
+Estimated Gas Cost for addDevice() func User 4: Device  28 : 88924
+Estimated Gas Cost for addDevice() func User 4: Device  29 : 89903
+Estimated Gas Cost for addDevice() func User 4: Device  30 : 90882
+Estimated Gas Cost for addDevice() func User 4: Device  31 : 91797
+Estimated Gas Cost for addDevice() func User 4: Device  32 : 92840
+Estimated Gas Cost for addDevice() func User 4: Device  33 : 93819
+Estimated Gas Cost for addDevice() func User 4: Device  34 : 94798
+Estimated Gas Cost for addDevice() func User 4: Device  35 : 95777
+Estimated Gas Cost for addDevice() func User 4: Device  36 : 96756
+Estimated Gas Cost for addDevice() func User 4: Device  37 : 97735
+Estimated Gas Cost for addDevice() func User 4: Device  38 : 98714
+Estimated Gas Cost for addDevice() func User 4: Device  39 : 99693
+Estimated Gas Cost for addDevice() func User 4: Device  40 : 100672
+Estimated Gas Cost for addDevice() func User 4: Device  41 : 101587
+Estimated Gas Cost for addDevice() func User 4: Device  42 : 102630
+Estimated Gas Cost for addDevice() func User 4: Device  43 : 103609
+Estimated Gas Cost for addDevice() func User 4: Device  44 : 104588
+Estimated Gas Cost for addDevice() func User 4: Device  45 : 105567
+Estimated Gas Cost for addDevice() func User 4: Device  46 : 106546
+Estimated Gas Cost for addDevice() func User 4: Device  47 : 107525
+Estimated Gas Cost for addDevice() func User 4: Device  48 : 108504
+Estimated Gas Cost for addDevice() func User 4: Device  49 : 109483
+Estimated Gas Cost for addDevice() func User 4: Device  50 : 110462
+    ✓ should add 50 devices to whitelist by whitelisted user account : Dave - Devices 50 (5219ms)
+Estimated Gas Cost for removeDevice() func User 4: Device  49 : 113672
+    ✓ should remove 49th device from whitelist by whitelisted user account : Dave - Device 49 (165ms)
+   
+
+-----------------------------------------------------------------
+List of Devices whitelisted by 0x1AeB8c8c0965c3AFf3b0FA87032eB1150a034285 : 
+
+Device 1 : 0xa734fd5C160EEDE56cC942205fFD49E5081B1e4e 
+
+Device 2 : 0x28e9a1121f7f854545b4b1EABe5569C9b36B0D2B 
+
+Device 3 : 0xb615fa20Dd86E51335aaE0F45ff396c95a3b8693 
+
+Device 4 : 0x72e37b2791731aee5234D191440bf5E24dB0AEA4 
+
+Device 5 : 0x395eb5A7f56217AE70E547eC89B2A6270ec360b3 
+
+Device 6 : 0x4fF9d4458809eBbEaE24CA3CE9cF4f06E799003B 
+
+Device 7 : 0xD201edBa245c9b6B438E450fA49e0f23155354A8 
+
+Device 8 : 0xe2b458DDD728591D88A70d2cF9638191AE2bA0F0 
+
+Device 9 : 0x6f147A856C4Ce50540Dfe22344574A76324ba095 
+
+Device 10 : 0xC0D5C1cebd1229442B8fb2752583fce6e3Cf9251 
+
+-----------------------------------------------------------------
+   
+
+    ✓ should display list of devices added under each user : Alice - ShowDevices
+   
+
+-----------------------------------------------------------------
+List of Devices whitelisted by 0x9D65a0eF49D998434c51bA3e5541553B43B36CF6 : 
+
+-----------------------------------------------------------------
+   
+
+    ✓ should display list of devices added under each user : Bob - ShowDevices
+   
+
+-----------------------------------------------------------------
+List of Devices whitelisted by 0x1dC97F5e8E987b9A68f523a13dB902376720d9D8 : 
+
+Device 1 : 0x60a127796B88611D6e76724bABd2e3734c8093AB 
+
+Device 2 : 0x948D13c33456C505DCFD2Ddd13093E773eD86D50 
+
+Device 3 : 0x96f9dB1Ed68AF5ba6CD76f6369802bf3c1A5b1c5 
+
+Device 4 : 0xE22c8541f1573Af0FE6Bea67Eb34297f9ccBD0cD 
+
+Device 5 : 0x2ac16778c43d1A847e8D6044191E9A466c432fc0 
+
+Device 6 : 0xE8876B2FF386E85680C5d2fE543E54DAf5fcd808 
+
+Device 7 : 0x41f004bbe9eb1D048e409056dbc7f6831d95bC28 
+
+Device 8 : 0x81C86A56b2b41E604DB961409606b98d464A2446 
+
+Device 9 : 0xD43a6CC35502769268347b691a4789209f55F5E1 
+
+-----------------------------------------------------------------
+   
+
+    ✓ should display list of devices added under each user : Carol - ShowDevices (42ms)
+   
+
+-----------------------------------------------------------------
+List of Devices whitelisted by 0x67A4f2e4b666eF9D7c89726a84Db4413Def29127 : 
+
+Device 1 : 0xeF23C94ee459C1c26Cdd476A2621ad49BCD29d5D 
+
+Device 2 : 0x4C2b1CAC9F2CFe8f44386BdE71AF1E1E9C19551B 
+
+Device 3 : 0x146780B10F5623C02610f06AeDFFB0fa260811f9 
+
+Device 4 : 0x40C590A588C4B0f30aa7Cd9B3b8dfA19158DB265 
+
+Device 5 : 0x72021f255E12Bf4460F57904b520061280088b5a 
+
+Device 6 : 0xf8e748aE703a561cb4e50ecEcD0DA1D0587c9Bc2 
+
+Device 7 : 0xD839a7650E684BF4c9f56e36cD9D2069Ed55Ee49 
+
+Device 8 : 0xe508E23eed16EEf2E877aD9281eC1a3646707E87 
+
+Device 9 : 0x5d8D09bc0382716A86D11B2783634e1D5321E3C5 
+
+Device 10 : 0x356e03c4A008D63b9126F3334e9207A2CA57131E 
+
+Device 11 : 0x4a89926DBD4423F1AeA5d3671fCCdE0630CAFfbC 
+
+Device 12 : 0x7bb6c37ff27d18E501447108C294adD9Ea04080d 
+
+Device 13 : 0xd36cF20D057601755092B1940EAFe9964b0d2dD8 
+
+Device 14 : 0xEfA8b6a77cab242D5FB97D4F114C17f8581EE243 
+
+Device 15 : 0x65717B91a4077fB34c0874de28cd7478036f9997 
+
+Device 16 : 0xA650a1E6001cAF813E6a2EFe41Eccb8CE5F67Db9 
+
+Device 17 : 0xf8FD3cc9e893525dcf2995d920132a86F5daef9e 
+
+Device 18 : 0x91B8dee6C3d24cDb09944055A7ed70bf4111709E 
+
+Device 19 : 0xF42Eb81b8ffA6E93EBBa5Bf09ECC6689369A54a5 
+
+Device 20 : 0x075a57BbB8036c94f2d74A7EF9772a3445e152c2 
+
+Device 21 : 0x0674BBa46856676C0d33a6eA729E27b05C5FE596 
+
+Device 22 : 0xD4AbF005D3F72C420Ae03D6e850c8f6BCbDe441f 
+
+Device 23 : 0xB49280f6e1d1E46f4e3e9260CB73F3a2B855430D 
+
+Device 24 : 0x969D72b65Ed21F569E0C98E0A6021413683470E1 
+
+Device 25 : 0x76C523abDd5A2dE74d4379086803D2b1350Cb1fD 
+
+Device 26 : 0x16fdC4AF94B1B3b024552E31304272C49E39E599 
+
+Device 27 : 0xd041FdAfe328e2f3a0224B9154F5472f55AC9eE5 
+
+Device 28 : 0x375220EE8d32F64656843C9a5A0694E63B511E56 
+
+Device 29 : 0xf7BD9F710828408a85FB406dcbA49E38bC21Ac97 
+
+Device 30 : 0xd03B3216263Bb5bE1E054aa1C3a1D989e8498c70 
+
+Device 31 : 0x67DD420b590089914bEe3bc396D8855A99b104d1 
+
+Device 32 : 0x4732cEb79fdDA1dFF7a47f050Ae375ADd7Ef8882 
+
+Device 33 : 0x8a59fD9b48bC1be0581A6637e68EefA6eeBE97A1 
+
+Device 34 : 0x1574C08885eedd9753216fb790FC6227133D9537 
+
+Device 35 : 0x3f8b1E0e6bFfbeA37423D0A8A41dD380756a29cb 
+
+Device 36 : 0xb6725BCA68bbB75EE92766CAfFbc9c24844F6764 
+
+Device 37 : 0x91152cb0FC7051dE5BCEBF427a07BCb31358591a 
+
+Device 38 : 0xb602dfBa6ee90B35cEF50210211F02aa21d95f97 
+
+Device 39 : 0x2490fDaFe061713dF5093eAdD90161D9bC88B974 
+
+Device 40 : 0xb34bbe7b6bB25eFF46834b44F515De243914FDfb 
+
+Device 41 : 0x16508E804c7529e4Fcc8adB6e98f6374150042bD 
+
+Device 42 : 0x0c110DD6250BA6333b6A5B934Ff4f3B2De6d896a 
+
+Device 43 : 0x50aa0968826AE7967Ba2cb17BDB648a4431d387A 
+
+Device 44 : 0x539042e76c25f8fB929DFF91462A0C27D93CBA6f 
+
+Device 45 : 0xA76Ce4b27C7Ce32Cd40F47cb27c066776834Bd23 
+
+Device 46 : 0xc472a8D26243D68C78d235bf023DeE0E33d90286 
+
+Device 47 : 0x442976B03Af5cfD7BB95F9C2A955559DC3417B07 
+
+Device 48 : 0x5a49735E80bffb4e784B59704eF1425f3dc66298 
+
+Device 49 : 0x42654A0e8b3A99c2DA949b39bE425cCF126a5352 
+
+-----------------------------------------------------------------
+   
+
+    ✓ should display list of devices added under each user : Dave - ShowDevices (93ms)
+Estimated Gas to remove user 1 removeWhitelistedUser() func 42635
+    ✓ should remove 2nd user and his devices (0):  Bob - Remove user (51ms)
+Estimated Gas to remove user 3 removeWhitelistedUser() func 198167
+    ✓ should remove 3rd user and his devices (10):  Carol - Remove user (109ms)
+Estimated Gas to remove user 4 removeWhitelistedUser() func 889454
+    ✓ should remove 4th user and his devices (50):  Dave - Remove user (583ms)
+
+
+  20 passing (11s)
+
