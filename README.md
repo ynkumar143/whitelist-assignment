@@ -20,6 +20,14 @@ If your tests do not pass, modify the contract, recompile, redeploy and retest. 
 
 Check out the testing files to see how tests are implemented in Javascript.
 
+## Usage of References
+
+1. To understand the interaction with already developed contract with us, use document "Steps To Clone WhiteList Smart Contract" and write your functions and validations accordingly. 
+
+2. Go through Gas_usages.txt file where you can the see gas usages used for each function. 
+
+We are interest in code, that can execute functions with better gas optimizations than the shared gas_usages.txt file. 
+
 ## Conditions
 
 The maximum number of device addresses they can add under their whitelisted account is 64. 
